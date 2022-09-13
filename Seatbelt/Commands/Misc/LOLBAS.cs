@@ -93,9 +93,7 @@ namespace Seatbelt.Commands
                         }
                     }
                 }
-                catch
-                {
-                }
+                
             }
             return files;
         }
