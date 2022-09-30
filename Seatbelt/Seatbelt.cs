@@ -184,6 +184,12 @@ namespace Seatbelt
         public void Dispose()
         {
             _outputSink.Dispose();
+            
+            
+            
+            
+            
+            
         }
     }
 }
